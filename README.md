@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nikhil Bagul
-- 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning Ai&Data Science
-- 💞️ I’m looking to collaborate on Full Stack Web Development
+- 👀 I’m interested in Data Science and Machine Learning
+- 🌱 I’m currently learning Ai&Data Science 3rd Year
+- 💞️ I’m looking to collaborate on Data Science and ML proejcts
 - 📫 How to reach me 📧nikhilbagul2710@gmail.com
 
 
